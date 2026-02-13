@@ -1,7 +1,7 @@
 # 💝 Valentine's Day Website 2026 💝
 
-[![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/stargazers)
-[![Fork](https://img.shields.io/github/forks/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/fork)
+[![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2026?style=social)](https://github.com/End2EndAI/valentine-website-2026/stargazers)
+[![Fork](https://img.shields.io/github/forks/End2EndAI/valentine-website-2026?style=social)](https://github.com/End2EndAI/valentine-website-2026/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Support me](https://img.shields.io/badge/Support-Stripe-blue)](https://buy.stripe.com/bJefZa8Le7fvgDe3ric7u00)
 
@@ -28,7 +28,7 @@ If you liked it, please :
 ## 🚀 Quick Start Guide
 
 ### 1. Get Your Own Copy
-1. Click the "Fork" button at the top right of this page or [click here](https://github.com/End2EndAI/valentine-website-2025/fork)
+1. Click the "Fork" button at the top right of this page or [click here](https://github.com/End2EndAI/valentine-website-2026/fork)
 2. Wait a few seconds while GitHub creates your copy
 3. You now have your own version of the code!
 
@@ -45,8 +45,8 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "PECYEKKKU"                    // Your Valentine's name
+pageTitle: "Will You Be My Valentine ? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
